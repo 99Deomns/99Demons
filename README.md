@@ -1,2 +1,2 @@
 # 99Demons
-learn
+learn together
